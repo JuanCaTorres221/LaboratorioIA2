@@ -1,0 +1,4 @@
+# Archivos grandes que no se deben subir
+Asistencia/Data/Base.xlsx
+Asistencia/Data/Base.csv
+Data/movies_dataset.csv
