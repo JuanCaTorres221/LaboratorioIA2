@@ -2,3 +2,28 @@
 Asistencia/Data/Base.xlsx
 Asistencia/Data/Base.csv
 Data/movies_dataset.csv
+
+# Archivos de datos - NO subir
+*.xlsx
+*.csv
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+Data/Base.xlsx
+
+# Entornos virtuales
+practicaIAEDA/
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporales y sistema
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.log
