@@ -2,3 +2,39 @@
 Asistencia/Data/Base.xlsx
 Asistencia/Data/Base.csv
 Data/movies_dataset.csv
+# Entornos virtuales de Python
+practicaIAEDA/
+venv/
+env/
+.venv/
+*.venv/
+
+# Archivos de datos
+*.csv
+*.xlsx
+*.xls
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+data/  # si tienes una carpeta data
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*.temp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Configuración específica de Windows
+*.ini
