@@ -1,29 +1,35 @@
-# Archivos grandes que no se deben subir
-Asistencia/Data/Base.xlsx
-Asistencia/Data/Base.csv
-Data/movies_dataset.csv
+# Entornos virtuales completos
+practicalAEDA/
+venv/
+env/
+.venv/
+*/Scripts/
+*/Lib/
+*/Include/
 
-# Archivos de datos - NO subir
+# Archivos de Python
+*.pyc
+__pycache__/
+*.so
+
+# Archivos de datos
 *.xlsx
 *.csv
 *.pkl
 *.pickle
 *.h5
 *.hdf5
-Data/Base.xlsx
-
-# Entornos virtuales
-practicaIAEDA/
-venv/
-env/
-.venv/
+Data/
 
 # Jupyter
 .ipynb_checkpoints/
 
-# Temporales y sistema
-__pycache__/
-*.pyc
+# Sistema
 .DS_Store
 Thumbs.db
 *.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/
