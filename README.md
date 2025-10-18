@@ -14,3 +14,5 @@ OBJETIVOS ESPECIFICOS:
 
 VIDA REAL:
 Esto sirve para las grandes productoras, al crear una "formula" con ciertos actores/directores/generos/etc. Poder garantizar ganancias en el estreno de la peliculas.
+
+La medida a Utilizar para es el R^2
